@@ -29,7 +29,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onNewIntent(Intent intent) {
         super.onNewIntent(intent);
         Bundle inte = intent.getExtras();
-
-
     }
 }
